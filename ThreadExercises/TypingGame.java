@@ -1,4 +1,4 @@
-package LearnGUI;
+package ThreadExercises;
 import java.awt.event.*;
 import java.awt.Font;
 import java.awt.Container;
