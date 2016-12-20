@@ -9,7 +9,10 @@ ScreenShots of listed Games.
 ![thumbnail](https://github.com/jyc979/thread-GUI/blob/master/Snowy.png)
 
 
-2) 369 Game
+2)
+![thumbnail](https://github.com/jyc979/thread-GUI/blob/master/Snake%20Game.png)
+
+3) 369 Game
 
 
 ![thumbnail](https://github.com/jyc979/thread-GUI/blob/master/369%20Game.png)
