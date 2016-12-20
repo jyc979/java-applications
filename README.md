@@ -29,3 +29,9 @@ match then the player wins)
 5) Bullet Shooting Game (Press enter to shoot the red bullet to hit the floating chicken going from left to right)
 
 ![thumbnail](https://github.com/jyc979/thread-GUI/blob/master/Bullet%20Game.png)
+
+
+6) Typing Game(Words drop from the top and the player needs to type them out before they reach the bottom)
+
+
+![thumbnail](https://github.com/jyc979/thread-GUI/blob/master/type.png)
