@@ -3,7 +3,7 @@ Applications developed with Java's built-in GUI and Thread.
 
 Including Bullet Shooting Game, Slot Machine, 369 Game, Monster Game, Snake Game, Image Visual Effect
 
-ScreenShots of listed Games.
+ScreenShots of some listed Games.
 
 1)Visual Effect
 ![thumbnail](https://github.com/jyc979/thread-GUI/blob/master/Snowy.png)
@@ -16,3 +16,14 @@ ScreenShots of listed Games.
 
 
 ![thumbnail](https://github.com/jyc979/thread-GUI/blob/master/369%20Game.png)
+
+
+4) Gambling Game
+
+
+![thumbnail](https://github.com/jyc979/thread-GUI/blob/master/Gambling%20Game.png)
+
+
+5) Bullet Shooting Game
+
+![thumbnail](https://github.com/jyc979/thread-GUI/blob/master/Bullet%20Game.png)
