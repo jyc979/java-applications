@@ -13,18 +13,19 @@ ScreenShots of some listed Games.
 ![thumbnail](https://github.com/jyc979/thread-GUI/blob/master/Snake%20Game.png)
 
 3) 369 Game (Using Thread/GUI, Once the game starts, the player has to click the button every time there's 3,6,9 in one 
-of the digits.
+of the digits)
 
 
 ![thumbnail](https://github.com/jyc979/thread-GUI/blob/master/369%20Game.png)
 
 
-4) Gambling Game
+4) Gambling Game (Using Thread/GUI, the numbers in the boxes change for ever mouse click and if all the numbers
+match then the player wins)
 
 
 ![thumbnail](https://github.com/jyc979/thread-GUI/blob/master/Gambling%20Game.png)
 
 
-5) Bullet Shooting Game
+5) Bullet Shooting Game (Press enter to shoot the red bullet to hit the floating chicken going from left to right)
 
 ![thumbnail](https://github.com/jyc979/thread-GUI/blob/master/Bullet%20Game.png)
